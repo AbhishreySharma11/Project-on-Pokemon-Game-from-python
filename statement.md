@@ -1,29 +1,35 @@
-Scope of the Project
+1. Problem Statement
+   
+Have you ever wanted to play Pokémon right in your terminal? This project brings that experience alive! The goal is to build a simple Python game where anyone can name their trainer, pick their favorite starter Pokémon, and jump into battles with wild Pokémon—all from the command line. The game saves your progress and lets you continue your adventure any time you want.
 
-Single-player, text-based terminal game
+3. Scope of the Project
 
-Supports persistent game progress through save and load functionality
+-Single-player, text-based terminal game
 
-Core mechanics: trainer naming, Pokémon selection, health-based battle system, simple stats and combat
+-Supports persistent game progress through save and load functionality
 
-Focused on beginner-friendly code and gameplay, without using any third-party dependencies
+-Core mechanics: trainer naming, Pokémon selection, health-based battle system, simple stats and combat
 
-Target Users
-Students and beginners learning Python and object-oriented programming
+-Focused on beginner-friendly code and gameplay, without using any third-party dependencies
 
-Fans of Pokémon wanting a minimalist terminal game experience
+3. Target Users
+   
+-Students and beginners learning Python and object-oriented programming
 
-Anyone interested in turn-based game design fundamentals
+-Fans of Pokémon wanting a minimalist terminal game experience
 
-High-level Features
-Customizable trainer name
+-Anyone interested in turn-based game design fundamentals
 
-Selection of starter Pokémon with unique stats
+4. High-level Features
+  
+-Customizable trainer name
 
-Random wild Pokémon encounters for battles
+-Selection of starter Pokémon with unique stats
 
-Turn-based combat with health and damage mechanics
+-Random wild Pokémon encounters for battles
 
-Save and reload game state to resume progress
+-Turn-based combat with health and damage mechanics
 
-Clear, menu-driven interface for ease of use
+-Save and reload game state to resume progress
+
+-Clear, menu-driven interface for ease of use
