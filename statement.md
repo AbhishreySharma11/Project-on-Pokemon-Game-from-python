@@ -2,7 +2,7 @@
    
 Have you ever wanted to play Pokémon right in your terminal? This project brings that experience alive! The goal is to build a simple Python game where anyone can name their trainer, pick their favorite starter Pokémon, and jump into battles with wild Pokémon—all from the command line. The game saves your progress and lets you continue your adventure any time you want.
 
-3. Scope of the Project
+2. Scope of the Project
 
 -Single-player, text-based terminal game
 
@@ -33,3 +33,4 @@ Have you ever wanted to play Pokémon right in your terminal? This project bring
 -Save and reload game state to resume progress
 
 -Clear, menu-driven interface for ease of use
+
